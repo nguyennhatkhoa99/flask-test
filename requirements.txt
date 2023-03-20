@@ -1,0 +1,8 @@
+attr==0.3.1
+flasgger==0.9.5
+Flask==2.0.3
+flask_marshmallow==0.14.0
+flask_migrate==3.1.0
+flask_sqlalchemy==2.5.1
+jsonpickle==2.1.0
+marshmallow==3.14.1

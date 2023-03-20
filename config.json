@@ -1,0 +1,9 @@
+{
+    "host": "prod-redshift.ccfbnjaceyga.ap-southeast-1.redshift.amazonaws.com",
+    "port": "5439",
+    "dbname": "marketing",
+    "user": "viewer",
+    "password": "P2v88M1JT94E43M",
+    "start_date": "2021-12-20T16:45:33Z",
+    "schema": "public"
+}
