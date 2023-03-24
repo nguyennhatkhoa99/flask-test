@@ -12,6 +12,9 @@ setup(
         "requests==2.28.2",
         "flask==2.2.0",
         "flask_sqlalchemy",
+        "jsonpickle",
+        "python-dotenv"
+        "flask-restful",
         "jsonpickle"
         
     ],
